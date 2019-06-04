@@ -31,7 +31,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 17. [Restricted license](#restricted-license)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
-TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand)
+TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand) // [Spanish(español)](https://github.com/fredbesan/lemonade-stand) // [Russian(русский)](https://github.com/saviorand/lemonade-stand_ru)
 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
@@ -53,10 +53,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
+* [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
 * [Git](https://git-scm.com/sfc)
 * [Transmission](https://www.transmissionbt.com/)
-* [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
+* [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 
 ## Bounties
 
@@ -77,11 +77,13 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Gitcoin](https://gitcoin.co/explorer)
 * [Bountysource](http://bountysource.com)
-* [Internet Bug Bounty](https://internetbugbounty.org/)
-* [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
+* [Gitcoin](https://gitcoin.co/explorer)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
+* [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
+* [Inkscape's "funded development" system](https://inkscape.org/support-us/funded-development/)
+* [Internet Bug Bounty](https://internetbugbounty.org/)
+* [IssueHunt](https://issuehunt.io)
 * [Status Open Bounty](https://openbounty.status.im/)
 
 ## Crowdfunding (one-time)
@@ -102,14 +104,13 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
-* [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
-* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
-* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
-* [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
+* [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+* [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
+* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Monero Forum Funding System (FFS)](https://getmonero.org/forum-funding-system/)
-* [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
+* [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
+* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 
 ## Crowdfunding (recurring)
 
@@ -129,14 +130,15 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Evan You + Vue.js Patreon](https://www.patreon.com/evanyou)
-* [Eran Hammer + hapi Patreon](https://www.patreon.com/eranhammer)
-* [webpack](https://opencollective.com/webpack)
 * [Babel](https://opencollective.com/babel)
-* [GnuPG](https://www.gnupg.org/donate/index.html)
-* [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
-* [Ruby Together](https://rubytogether.org)
 * [Clojurists Together](https://clojuriststogether.org)
+* [Eran Hammer + hapi Patreon](https://www.patreon.com/eranhammer)
+* [ESLint](https://eslint.org/blog/2019/02/funding-eslint-future)
+* [Evan You + Vue.js Patreon](https://www.patreon.com/evanyou)
+* [GnuPG](https://www.gnupg.org/donate/index.html)
+* [Ruby Together](https://rubytogether.org)
+* [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
+* [webpack](https://opencollective.com/webpack)
 
 ## Books and merchandise
 
@@ -156,11 +158,11 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Lua](https://www.lua.org/pil/)
-* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
-* [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
-* [Kyle Simpson + You Don't Know JS (personal effort)](https://github.com/getify/You-Dont-Know-JS)
 * [CocoaPods (fundraising for charity)](https://cocoapods.org/socks)
+* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
+* [Kyle Simpson + You Don't Know JS (personal effort)](https://github.com/getify/You-Dont-Know-JS)
+* [Lua](https://www.lua.org/pil/)
+* [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
 
 ## Advertising & sponsorships
 
@@ -180,10 +182,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
-* [Hoodie](http://hood.ie/sponsoring/)
 * [CodeFund](https://codefund.io)
 * [GitFund](https://gitfund.io)
+* [Hoodie](http://hood.ie/sponsoring/)
+* [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 
 ## Get hired by a company to work on project
 
@@ -205,9 +207,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
 * [Donald Stufft + Hewlett-Packard and Python packaging (personal effort)](https://twitter.com/dstufft/status/594119386333609984)
 * [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
-* [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
 * [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
 ## Start a project while currently employed
@@ -230,14 +232,15 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
-* [Google and Go](https://golang.org/doc/faq#history)
 * [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
 * [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
+* [Google and Go](https://golang.org/doc/faq#history)
+* [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
+
 
 ## Grants
 
-*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+*Grants are monetary gifts that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
 
 *Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
 
@@ -254,12 +257,16 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Handshake community grant program](https://handshake.org)
-* [Dat Project](https://blog.datproject.org/2017/09/15/dat-funding-history/)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
-* [Libraries.io grant applications](https://github.com/librariesio/supporters)
+* [Chan-Zuckerberg Initiative grant program for open source software in science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
+* [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
+* [Dat Project](https://blog.datproject.org/2017/09/15/dat-funding-history/)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
+* [Grin General Fund](http://grin-tech.org/funding.html)
+* [Handshake community grant program](https://handshake.org)
+* [Libraries.io grant applications](https://github.com/librariesio/supporters)
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
+* [Sentry Open Source Grant](https://blog.sentry.io/2019/01/29/apply-sentry-open-source-grant)
 
 ## Consulting
 
@@ -280,10 +287,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Varnish Moral License](http://phk.freebsd.dk/VML/)
-* [Neighbourhoodie](https://neighbourhood.ie/)
 * [Baroque Software](http://baroquesoftware.com/)
-* [OpenSSL](http://openssl.com/what.html)
+* [Neighbourhoodie](https://neighbourhood.ie/)
+* [OpenSSL Software Foundation](https://www.openssl.org/community/contacts.html) formerly [OpenSSL Software Services](https://web.archive.org/web/20180817114118/opensslservices.com/what.html)
+* [Varnish Moral License](http://phk.freebsd.dk/VML/)
 
 ## Paid support
 
@@ -301,9 +308,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Prism](https://www.patreon.com/prismlibrary) - supporting their Patreon gives you access to their community Slack channel for project support
-* [Tidelift paid subscriptions](https://tidelift.com/subscription)
+* [Fody](https://github.com/Fody/Fody/blob/master/readme.md): Must be a Patreon supporter to open an issue or pull request
+* [Prism](https://www.patreon.com/prismlibrary): Supporting their Patreon gives you access to their community Slack channel for project support
 * [Red Hat](https://en.wikipedia.org/wiki/Red_Hat#Business_model)
+* [Tidelift paid subscriptions](https://tidelift.com/subscription)
 
 ## SaaS
 
@@ -322,14 +330,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Moodle](https://moodle.org/)
+* [Discourse](https://www.discourse.org/)
 * [Forge Laravel](https://forge.laravel.com/)
+* [Ghost](https://ghost.org/about/)
+* [GitLab](https://gitlab.com) (also uses open core licensing)
+* [Moodle](https://moodle.org/)
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 * [WordPress.com](http://wordpress.com/)
-* [Discourse](https://www.discourse.org/)
-* [Ghost](https://ghost.org/about/)
-* [GitLab](https://gitlab.com) (also uses open core licensing)
 
 ## Copyleft + paid license
 
@@ -349,10 +357,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
-* [SQLite](https://www.sqlite.org/copyright.html)
 * [Metafizzy](https://metafizzy.co) (ex. [Isotope](https://isotope.metafizzy.co/license.html), [Flickity](https://flickity.metafizzy.co/license.html))
+* [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
 * [Qt](https://www1.qt.io/faq/#_Toc_3)
+* [SQLite](https://www.sqlite.org/copyright.html)
 
 ## Open core
 
@@ -371,13 +379,13 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [GitLab](https://about.gitlab.com/)
+* [Caddy](https://caddyserver.com/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
 * [Mesosphere](https://mesosphere.com/)
 * [Phusion Passenger](https://www.phusionpassenger.com/); see also their talk, ["Bootstrapping a Business Around Open Source"](https://www.youtube.com/watch?v=uHaMpLyMOL0&feature=youtu.be) (video)
 * [Sidekiq](http://sidekiq.org/)
-* [Caddy](https://caddyserver.com/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
-* [GitLab](https://about.gitlab.com/)
 
 ## Foundations & consortiums
 
@@ -398,9 +406,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [Linux Foundation](https://www.linuxfoundation.org/)
-* [Ruby Together](http://rubytogether.org/)
-* [Python Software Foundation](https://www.python.org/psf/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
+* [Python Software Foundation](https://www.python.org/psf/)
+* [Ruby Together](http://rubytogether.org/)
 * [Signal Foundation](https://signal.org/blog/signal-foundation/)
 
 ## Venture capital
@@ -422,11 +430,12 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [OSS Capital](https://oss.capital/)
-* [Npm](http://blog.npmjs.org/post/76320673650/funding)
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
-* [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
+* [Gatsby](https://www.gatsbyjs.org/blog/2018-05-24-launching-new-gatsby-company/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
+* [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
+* [Npm](http://blog.npmjs.org/post/76320673650/funding)
+* [OSS Capital](https://oss.capital/)
 
 ## Restricted license
 
@@ -444,9 +453,16 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
+* [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
+* [Markdown Monster](https://markdownmonster.west-wind.com/)
+  * Source code is viewable, but [a license must be purchased](https://markdownmonster.west-wind.com/download.aspx) for continued use
+  * Project contributors are [eligible for a free license](https://markdownmonster.west-wind.com/download.aspx#Contribute)
+* [Onivim 2](https://github.com/onivim/oni2#license)
+  * Commercial license is pay-what-you-want, with the minimum pre-order price increasing as they get closer to shipping an MVP
+  * Anyone who financially sponsors the OSS project gets a free lifetime license
+  * Commits are dual-licensed with MIT after 18 months from commit's date to master
 * [Redis Commons Clause](https://redislabs.com/community/licenses/)
 * [Ungit switched back from Faircode to MIT License](https://github.com/FredrikNoren/ungit/issues/997)
 
@@ -457,7 +473,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 I wrote up this guide to aggregate my own knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
 
-If something is factually incorrect (especially with a case study example), I welcome your edits. Also, if there's a category you know of that I missed, I would also welcome that addition.
+If something is factually incorrect (especially with a case study example), I welcome your edits. Case studies are organized alphabetically within each category. Also, if there's a category you know of that I missed, I would also welcome that addition.
 
 ### License and attribution
 
